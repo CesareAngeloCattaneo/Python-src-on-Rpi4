@@ -1,3 +1,4 @@
+
 def play():
 
     from random import shuffle
@@ -23,6 +24,7 @@ for i in range(1000):
     pick_1, pick_2 = play()
     sum1 += pick_1
     sum2 += pick_2
+
 
 print (sum1, sum2)
     
