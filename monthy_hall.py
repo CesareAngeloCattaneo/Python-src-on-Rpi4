@@ -27,6 +27,7 @@ for i in range(1000):
 
 
 print (sum1, sum2)
+print (sum1/sum2)
     
 
 
